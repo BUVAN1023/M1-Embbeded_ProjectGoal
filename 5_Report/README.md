@@ -62,3 +62,33 @@ ATmega328P is a low-power CMOS 8-bit microcontroller based on the AVR enhanced R
 
 # HIGH LEVEL REQUIREMENT
 - AVR compiler,simule ide
+
+![image](https://user-images.githubusercontent.com/92425950/144354299-3864c483-8cd8-4754-84f9-5aa32018b475.png)
+
+![image](https://user-images.githubusercontent.com/92425950/144354495-761d766e-9c40-4b1d-82dc-5b46efe05fef.png)
+
+# TEST PLAN AND OUTPUT #
+
+
+## Table No 1: High level test plan
+
+| Test ID |	Description	Exp I/P	Exp O/p |
+|------- |  --------------------------- |
+| H_01 | Check if program is running or not |
+| H_02 | Check if circuit connection is correct or not |
+| H_03 | Check if running or not |
+
+## Table No 2: Low level test plan
+
+| Test ID |	Description	Exp I/P	Exp O/p |
+|------- | ---------------------------- |
+| L_01 | Requirements should be appropriate |
+| L_02 | Required software showld be uploaded |
+| L_03 | Should set a correct directory path |
+
+# Output
+
+![image](https://user-images.githubusercontent.com/92425950/144354583-09aa21a2-303a-47ac-aa35-743bc851422c.png)
+
+
+
