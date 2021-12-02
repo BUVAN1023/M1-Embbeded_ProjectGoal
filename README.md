@@ -1,6 +1,5 @@
-[![CI](https://github.com/BUVAN1023/M1-Embbeded_ProjectGoal/actions/workflows/main.yml/badge.svg)](https://github.com/BUVAN1023/M1-Embbeded_ProjectGoal/actions/workflows/main.yml)
-
-[![code cppcheck](https://github.com/BUVAN1023/M1-Embbeded_ProjectGoal/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/BUVAN1023/M1-Embbeded_ProjectGoal/actions/workflows/cppcheck.yml)
+[![CI](https://github.com/BUVAN1023/M1-Embbeded_ProjectGoal/actions/workflows/main.yml/badge.svg)](https://github.com/BUVAN1023/M1-Embbeded_ProjectGoal/actions/workflows/main.yml) [![code cppcheck](https://github.com/BUVAN1023/M1-Embbeded_ProjectGoal/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/BUVAN1023/M1-Embbeded_ProjectGoal/actions/workflows/cppcheck.yml)
+[![Git Inspector](https://github.com/BUVAN1023/M1-Embbeded_ProjectGoal/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/BUVAN1023/M1-Embbeded_ProjectGoal/actions/workflows/Git_Inspector.yml)
 
 # M1_Embbeded_Blinking the LED
 
